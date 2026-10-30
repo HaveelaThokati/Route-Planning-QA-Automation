@@ -1,0 +1,4 @@
+browser=edge
+url=https://dev.rapid.pragathirail.ai/rad/
+Username = designer
+Password = Designer@123
